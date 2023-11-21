@@ -10,7 +10,7 @@ Esse é um projeto requisitado pela orientadora Aline Firmino com o objetivo de 
 Para testar o projeto será necessário ter versão `2021.3.6f1` do Unity.
 
 ## instalação 
-Clonar o projeto `https://drive.google.com/file/d/1n7XHbv_eE7L1MGhybagQXoV4kNmsy66Y/view?usp=drive_link`
+Clonar esse projeto do github 
 e abrir o projeto no unity.
 
 ## desenvolvimento do projeto
@@ -63,5 +63,3 @@ e abrir o projeto no unity.
 ```
 
 7. Adicionar um colisor no final do labirinto com o script de gestão da cena para retornar ao menu.
-
-## demonstração 
